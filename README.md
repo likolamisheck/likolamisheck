@@ -1,4 +1,4 @@
-👋 Hi, I’m @Clodcodeking
+👋 Hi, I’m likolamisheck
 👀 I’m interested in Data Analystics and Data Science
 🌱 I have basic to advanced skills in SQL, Python, Tableau and Excel.
 💞️ I’m looking for an internship or even a job in Data Analytics and Data Science.
